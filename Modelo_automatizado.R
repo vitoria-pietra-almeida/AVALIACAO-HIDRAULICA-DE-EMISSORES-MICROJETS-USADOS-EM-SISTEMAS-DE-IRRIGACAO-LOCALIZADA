@@ -187,7 +187,8 @@ processar_microjet <- function(caminho_excel, pasta_saida, cor_pontos, titulo_gr
 }
 
 ##APÓS RODAR UMA VEZ OS COMANDOS ACIMA, CASO VÁ PROCESSAR OUTROS DADOS, 
-##BASTA MUDAR O ENDEREÇO DO ARQUIVO COM OS DADOS E A PASTA DE SAÍDA. 
+##BASTA MUDAR O ENDEREÇO DO ARQUIVO COM OS DADOS E A PASTA DE SAÍDA.
+##OS INTERVALOS DO EIXO DA VAZÃO DO GRÁFICO TAMBÉM PODEM SER MUDADOS.
 ##FEITO ISSO, SÓ PRECISA MARCAR A PARTIR DAQUI PARA RODAR DE NOVO
                                                          #
 #######################################                  #
